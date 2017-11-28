@@ -1,0 +1,22 @@
+{
+  "name": "gastro-booking",
+  "version": "1.0.0",
+  "description": "gastro booking",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "dev": "./node_modules/.bin/gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-util": "^3.0.7"
+  },
+  "dependencies": {}
+}
